@@ -1,0 +1,2 @@
+# STM32_MCU_6_ADC_I2C
+External ADC with ADS1115
